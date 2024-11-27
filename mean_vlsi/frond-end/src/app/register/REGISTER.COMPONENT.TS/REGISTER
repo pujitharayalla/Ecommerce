@@ -1,0 +1,7 @@
+{
+    console.log(resultData);
+    alert("Registered Successfully");
+    this.name = ";
+    this.address =;
+    this.phone = 0;
+}
